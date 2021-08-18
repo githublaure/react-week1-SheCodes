@@ -1,2 +1,2 @@
-# react-week1-SheCodes
+# react-weeather-search-engine
 Created with CodeSandbox
